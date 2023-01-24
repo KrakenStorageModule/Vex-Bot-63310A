@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "name": "PROS Project",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "c:\\Users\\jfkor\\Downloads\\Worlds-Bot-63310J\\Worlds-Bot-63310J\\include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "c:\\Users\\jfkor\\AppData\\Roaming\\Code\\User\\globalStorage\\sigbots.pros\\install\\pros-toolchain-windows\\usr\\bin\\arm-none-eabi-g++",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "gcc-arm",
+      "compileCommands": "c:\\Users\\jfkor\\Downloads\\Worlds-Bot-63310J\\Worlds-Bot-63310J\\compile_commands.json",
+      "browse": {
+        "path": [
+          "c:\\Users\\jfkor\\Downloads\\Worlds-Bot-63310J\\Worlds-Bot-63310J"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      }
+    }
+  ],
+  "version": 4
+}
